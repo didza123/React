@@ -1,0 +1,25 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "Firstname": "Delight",
+        "Lastname": "Watungwa",
+        "email": "delight@gmail.com",
+        "services": "insurance"
+      },
+      {
+        "id": "39fe",
+        "Firstname": "Slim",
+        "Lastname": "Code",
+        "email": "slim@gmail.com",
+        "services": "pension"
+      },
+      {
+        "Firstname": "dee",
+        "Lastname": "code",
+        "email": "dee@gmail.com",
+        "services": "pension",
+        "id": "ExHF53z"
+      }
+    ]
+  }
