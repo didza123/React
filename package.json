@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://reactdashboard-k0oe.onrender.com/posts",
+  "proxy": "http://localhost:5000/posts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
